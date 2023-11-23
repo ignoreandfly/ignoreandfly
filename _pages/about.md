@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Siddhant Bhardwaj, a final year undergrad majoring in Electrical and Electronics with a minor in Data Science at Manipal Institute of Technology, Manipal. My interest lies in deep learning, computer vision, and image processing.
+Hello, I am Siddhant, a final year undergrad majoring in Electrical and Electronics with a minor in Data Science at Manipal Institute of Technology, Manipal. My interest lies in deep learning, computer vision, and image processing.
 
 Previously, I interned at Spectrum Lab at the [Indian Institute of Science, Bangalore](https://eecs.iisc.ac.in/), where I worked on adapting the [Segment Anything Model](https://segment-anything.com/)  for the task of optic disc and optic cup segmentation in fundus image. 
 

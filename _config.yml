@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siddhant Bharadwaj"
 title_separator          : "-"
-name                     : &name "Siddhant Bharadwaj"
+name                     : &name "siddhant."
 description              : &description "BTech EEE at MIT, Manipal"
 url                      : https://ignoreandfly.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
