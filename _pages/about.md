@@ -16,5 +16,7 @@ During my undergraduate, I conducted research on AI in Health Care, AI Security 
 
 When I am not programming or doing mathematics, you will find me reading, watching sitcoms, scribbling in my journal, and more often than not posting hot takes on X (formerly known as Twitter).
 
+If you would like to collobarate or talk about one of my projects, feel free to drop a mail.
+
 
 
