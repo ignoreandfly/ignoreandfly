@@ -14,7 +14,7 @@ Previously, I interned at Spectrum Lab at the [Indian Institute of Science, Bang
 
 During my undergraduate, I conducted research on AI in Health Care, AI Security and the use of Deep Learning in battery health management. The bulk of the work was done under Dr. Harish Kumar J.R., and Dr. Munesh Chandra Trivedi.
 
-When I am not programming or doing mathematics, you will find me reading, watching sitcoms, scribbling in my journal, and more often than not posting hot takes on Twitter.
+When I am not programming or doing mathematics, you will find me reading, watching sitcoms, scribbling in my journal, and more often than not posting hot takes on X (formerly known as Twitter).
 
 
 
